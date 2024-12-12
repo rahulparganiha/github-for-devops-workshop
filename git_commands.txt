@@ -34,3 +34,28 @@ git restore testing.py
 git status
 history
 
+git status
+git add git_commands.txt 
+git status
+git commit -m "added commands file"
+git status
+git remote add origin git@github.com:rahulparganiha/github-for-devops-workshop.git
+git remote -v
+git remote set-url origin https://github.com:rahulparganiha/github-for-devops-workshop.git
+git remote -v
+git push origin master 
+git remote -v
+git config --list
+git remote -v
+git remote set-url origin https://github.com/rahulparganiha/github-for-devops-workshop.git
+git remote -v
+git push origin master 
+clear
+git status
+git add .
+git commit -m "updated git_commands.txt file"
+git status
+git push origin master 
+git statu
+git status
+history
