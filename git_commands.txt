@@ -60,5 +60,55 @@ git statu
 git status
 history
 
-this is new changes
-this is new changes
+ git status 
+ git status
+ git add .
+ git status
+ git commit -m "added new cmds"
+ git status
+ git push origin master 
+ git pull origin master 
+ git branch
+ git branch dev
+ git branch 
+ git switch dev 
+ ls
+ git branch 
+ git status
+ git add this-is-from-dev.txt 
+ git commit -m "added dev file"
+ git status
+ git switch master 
+ git log
+ git log --oneline
+ git status
+ git checkout dev
+ git status
+ git log --oneline
+ git push origin dev
+ git status 
+ git checkout -B test
+ git branch 
+ git push origin test
+ git brac
+ git branch 
+ git checkout master 
+ git status
+ git pull origin master 
+ git branch -d origion test
+ git branch -d origin test
+ git branch -d test origin
+ git push -d test
+ git push -d origin test
+ git branch -d test
+ git branch 
+ git fetch 
+ git branch 
+ git pull origin stage
+ git branch 
+ git fetch origin 
+ git branch 
+ git his
+ history 
+
+ 
